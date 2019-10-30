@@ -6,9 +6,9 @@ Open the project in an IDE of your choice (Visual Studio Code was used to constr
 
 Install the npm dependencies from the package.json file
 
-Run app.js to a local server. nodemon was what I used to run this project. To install nodemon, input "npm install -g nodemon" in your terminal
+Run app.js to your local host server. nodemon was what I used to run this project. To install nodemon, input "npm install -g nodemon" in your terminal. Once installed, run "nodemon app.js" to the terminal
 
-In order to access the project through your local server, make sure your url is: **http://localhost:3000/todo**
+In order to access the project through your local host server, make sure your url is: **http://localhost:3000/todo**
 
 Add and delete items as you wish to test the project out!
 
